@@ -1,2 +1,7 @@
 # Heart-Disease-Prediction-
-Hey I have completed my first project on Machine Learning
+<h2> Machine Learning Model</h2>
+<ul>
+<li>Numpy</li>
+<li>Sklearn</li>
+<li>Pandas</li>
+
